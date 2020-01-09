@@ -8,7 +8,6 @@ OpenCL(TM) targeting Intel Gen graphics hardware architecture.
 Please refer to http://01.org/compute-runtime for additional details regarding
  Intel's motivation and intentions wrt OpenCL support in the open source.
 
-
 ## License
 
 The Intel(R) Graphics Compute Runtime for OpenCL(TM) is distributed under the MIT.
